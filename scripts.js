@@ -1,13 +1,13 @@
 (function(){
-    'use strict';
+  'use strict';
 
-    var App = (function(){
-        return {
-            init: function() {
-                console.log('starting...');
-            }
-        }
-    })();
+  var App = (function(){
+    return {
+      init: function() {
+        console.log('starting...');
+      }
+    }
+  })();
 
-    App.init();
+  App.init();
 })()
