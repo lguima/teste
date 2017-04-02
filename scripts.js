@@ -1,5 +1,5 @@
 (function(){
-    'use strict';
+  'use strict';
 
     var App = (function(){
         return {
@@ -9,5 +9,5 @@
         }
     })();
 
-    App.init();
+  App.init();
 })()
